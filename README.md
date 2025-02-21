@@ -1,2 +1,1 @@
-# NoirThingyTesting
-Hello everybody
+# Noir - an external scripting utility for Roblox
