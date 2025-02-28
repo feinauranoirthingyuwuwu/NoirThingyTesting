@@ -3,5 +3,5 @@
     "bv": "v0.0.2",
     "nv": "v0.5.1",
     "c": "[+] Fixed up some bytecode compiler stuff\n[+] Added outdated bootstrapper warning",
-    "bc": "[+] Now asks if you would like to downgrade your Roblox version\n[+] Added outdated bootstrapper warning""
+    "bc": "[+] Now asks if you would like to downgrade your Roblox version\n[+] Added outdated bootstrapper warning"
 }
